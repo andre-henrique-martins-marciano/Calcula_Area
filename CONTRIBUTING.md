@@ -20,7 +20,7 @@ Este documento explica como você pode contribuir, seja reportando um bug, suger
 
 ---
 
-## Reportando Bugs (Issues)
+## Reportando Bugs (Issues) :exclamation:
 
 Se você encontrar um bug ou um comportamento inesperado no Calcula_Area, por favor, nos ajude a corrigi-lo abrindo uma "Issue" no GitHub. Antes de abrir uma nova issue, por favor, verifique se já existe uma issue semelhante.
 
@@ -33,7 +33,7 @@ Ao abrir uma issue de bug, inclua o máximo de detalhes possível:
 * **Capturas de tela ou vídeos (se aplicável):** Para ajudar a ilustrar o problema.
 * **Sua versão do software e sistema operacional.**
 
-## Sugestão de Novas Funcionalidades
+## Sugestão de Novas Funcionalidades :white_check_mark:
 
 Tem ideias para melhorar o Calcula_Area? Adoraríamos ouvir! Você pode sugerir novas funcionalidades abrindo uma "Issue" no GitHub.
 
@@ -47,7 +47,7 @@ Ao abrir uma issue de funcionalidade, inclua:
 
 Para contribuir com alterações no código ou na documentação do projeto, siga os passos abaixo:
 
-### Preparando o Ambiente
+### Preparando o Ambiente :computer:
 
 1.  **Faça um Fork do Repositório:** O primeiro passo é fazer um fork do repositório principal do Calcula_Area para a sua conta do GitHub. Clique no botão 'Fork' no canto superior direito da página do repositório.
 2.  **Clone o seu Fork:** Em seu ambiente local, clone o *seu fork* do repositório:
@@ -105,7 +105,7 @@ A equipe de manutenção irá revisar seu PR e poderá aprová-lo, pedir ajustes
 
 ---
 
-## Guia de Estilo
+## Guia de Estilo :closed_book:
 
 Para manter o código consistente, siga as diretrizes abaixo:
 
@@ -116,7 +116,7 @@ Para manter o código consistente, siga as diretrizes abaixo:
 
 ---
 
-## Código de Conduta
+## Código de Conduta :notebook_with_decorative_cover:
 
 Este projeto adota um Código de Conduta com base no respeito e colaboração mútua.
 
