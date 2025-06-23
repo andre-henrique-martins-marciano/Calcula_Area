@@ -1,7 +1,7 @@
 # Calcula_Area - Calculadora de Áreas Geométricas
 :heavy_multiplication_x:  :heavy_minus_sign:  :heavy_division_sign:  :heavy_plus_sign:	
 
-:heavy_check_mark: Um software educativo para aprender Java Swing criando uma calculadora de áreas de formas geométricas básicas.
+Um software educativo para aprender Java Swing criando uma calculadora de áreas de formas geométricas básicas.
 
 ## 📌 Índice
 
