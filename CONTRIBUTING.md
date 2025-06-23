@@ -1,10 +1,11 @@
 # Como Contribuir para o Projeto Calcula_Area
+:heavy_multiplication_x: :heavy_minus_sign: :heavy_division_sign: :heavy_plus_sign:	
 
 Agradecemos o seu interesse em contribuir para o projeto Calcula_Area! Suas contribuições são muito valiosas para o aprimoramento e manutenção deste software.
 
 Este documento explica como você pode contribuir, seja reportando um bug, sugerindo uma nova funcionalidade ou enviando alterações de código/documentação.
 
-## Sumário
+## Sumário 
 
 1.  [Reportando Bugs (Issues)](#reportando-bugs-issues)
 2.  [Sugestão de Novas Funcionalidades](#sugestao-de-novas-funcionalidades)
@@ -51,15 +52,14 @@ Para contribuir com alterações no código ou na documentação do projeto, sig
 1.  **Faça um Fork do Repositório:** O primeiro passo é fazer um fork do repositório principal do Calcula_Area para a sua conta do GitHub. Clique no botão 'Fork' no canto superior direito da página do repositório.
 2.  **Clone o seu Fork:** Em seu ambiente local, clone o *seu fork* do repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/Calcula_Area.git](https://github.com/SEU_USUARIO/Calcula_Area.git)
+    git clone https://github.com/SEU_USUARIO/Calcula_Area.git
     cd Calcula_Area
     ```
     (Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub).
 3.  **Adicione o Repositório Original como "upstream" (Opcional, mas recomendado):** Isso permite que você sincronize seu fork com as atualizações do projeto original.
     ```bash
-    git remote add upstream [https://github.com/REPOSITORIO_ORIGINAL_DO_AMIGO.git](https://github.com/REPOSITORIO_ORIGINAL_DO_AMIGO.git)
+    git remote add upstream https://github.com/REPOSITORIO_ORIGINAL_DO_AMIGO.git
     ```
-    (Este comando é para o repositório original do seu amigo. Você precisará obter o link HTTPS exato do repositório dele no GitHub para colocar aqui, por exemplo: `https://github.com/nome-do-amigo/Calcula_Area.git`).
 
 ### Criando uma Nova Branch
 
@@ -67,3 +67,71 @@ Trabalhe sempre em uma nova branch, não na branch `main` (ou `master`) do seu f
 
 ```bash
 git checkout -b nome-da-sua-branch-descritiva
+```
+
+Dê um nome claro e descritivo à sua branch, como `ajuste-interface-grafica` ou `corrige-calculo-triangulo`.
+
+### Fazendo Suas Alterações
+
+Edite o código ou a documentação conforme necessário. Teste suas alterações localmente antes de enviar.
+
+Depois de fazer suas mudanças:
+
+```bash
+git add .
+git commit -m "Descreva brevemente a alteração realizada"
+git push origin nome-da-sua-branch-descritiva
+```
+
+### Mantendo seu Fork Atualizado
+
+Para manter seu fork sincronizado com o repositório original, execute:
+
+```bash
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+```
+
+### Submetendo um Pull Request (PR)
+
+1. Acesse seu repositório no GitHub.
+2. Clique em **"Compare & pull request"** na página da sua branch.
+3. Adicione uma descrição clara sobre as mudanças realizadas.
+4. Clique em **"Create pull request"**.
+
+A equipe de manutenção irá revisar seu PR e poderá aprová-lo, pedir ajustes ou sugerir melhorias.
+
+---
+
+## Guia de Estilo
+
+Para manter o código consistente, siga as diretrizes abaixo:
+
+- Utilize indentação adequada (preferencialmente 4 espaços por nível, se Python).
+- Use nomes de variáveis e funções claros e descritivos.
+- Escreva comentários quando necessário, especialmente em partes mais complexas.
+- Utilize mensagens de commit no imperativo, por exemplo: `Adiciona verificação de entrada nula`.
+
+---
+
+## Código de Conduta
+
+Este projeto adota um Código de Conduta com base no respeito e colaboração mútua.
+
+**Resumidamente:**
+
+- Seja respeitoso com outros colaboradores.
+- Aceite críticas construtivas.
+- Evite linguagem ofensiva, discriminatória ou agressiva.
+- Trabalhe com empatia e colaboração.
+
+O objetivo é garantir um ambiente inclusivo, seguro e acolhedor para todos os envolvidos.
+
+---
+
+Muito obrigado por contribuir com o **Calcula_Area**!  
+Juntos, podemos tornar este projeto cada vez melhor 🚀
+
+Em caso de dúvidas, não hesite em abrir uma *issue* ou entrar em contato.
