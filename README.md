@@ -104,7 +104,7 @@ java Main
 
 ---
 
-## 📊 Fórmulas Utilizadas
+## Fórmulas Utilizadas
 
 * Quadrado → área = lado²
 * Retângulo → área = base × altura
@@ -114,7 +114,7 @@ java Main
 
 ---
 
-## 📈 Melhorias Futuras
+## Melhorias Futuras
 
 * Interface gráfica com **JavaFX ou Swing** 🖥️
 * Suporte a mais figuras geométricas
@@ -126,7 +126,6 @@ java Main
 ## Autor
 
 **André Henrique Martins Marciano**
-📍 São João del-Rei – MG
 LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
 
 ---
