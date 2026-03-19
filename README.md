@@ -1,10 +1,8 @@
-Aqui está um **README.md completo e profissional** para seu projeto em Java 👇
-
 ---
 
-# 📐 Calculadora de Áreas em Java
+# Calculadora de Áreas em Java
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é um sistema desenvolvido em **Java** com o objetivo de calcular diferentes tipos de áreas geométricas de forma rápida e eficiente.
 
@@ -12,17 +10,17 @@ A aplicação permite ao usuário escolher uma figura geométrica e informar os 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-* Java ☕
+* Java
 * Programação Orientada a Objetos (POO)
 * (Opcional) Interface via terminal ou GUI (Swing/JavaFX)
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
-* 📏 Cálculo da área de diferentes figuras:
+* Cálculo da área de diferentes figuras:
 
   * Quadrado
   * Retângulo
@@ -30,17 +28,17 @@ A aplicação permite ao usuário escolher uma figura geométrica e informar os 
   * Círculo
   * Trapézio
 
-* 🧮 Entrada de dados pelo usuário
+* Entrada de dados pelo usuário
 
-* 📊 Exibição clara dos resultados
+* Exibição clara dos resultados
 
-* 🔁 Menu interativo (caso seja via terminal)
+* Menu interativo (caso seja via terminal)
 
-* ❌ Validação básica de entradas
+* Validação básica de entradas
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 O projeto utiliza conceitos importantes de programação:
 
@@ -54,23 +52,23 @@ Cada figura geométrica pode ser representada por uma classe específica, tornan
 
 ---
 
-## 🖼️ Demonstração do Sistema
+## Demonstração do Sistema
 
-> 📌 Crie uma pasta `images` no projeto e adicione os prints
+> Crie uma pasta `images` no projeto e adicione os prints
 
-### 📋 Menu Principal
+### Menu Principal
 
 ```md id="m7t6kv"
 ![Menu Principal](images/menu.png)
 ```
 
-### 📐 Escolha da Figura
+### Escolha da Figura
 
 ```md id="g6z5t0"
 ![Escolha da Figura](images/escolha.png)
 ```
 
-### 🧮 Resultado do Cálculo
+### Resultado do Cálculo
 
 ```md id="t72t3t"
 ![Resultado](images/resultado.png)
@@ -78,7 +76,7 @@ Cada figura geométrica pode ser representada por uma classe específica, tornan
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório
 
@@ -125,23 +123,16 @@ java Main
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **André Henrique Martins Marciano**
 📍 São João del-Rei – MG
-🔗 LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
-💻 GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
+LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
 
 ---
-
-Se quiser, posso elevar esse projeto para outro nível, tipo:
-
-* transformar em **API REST em Java (Spring Boot)**
-* ou fazer uma **interface gráfica bonita (JavaFX)**
-* ou até adaptar para projeto de portfólio nível estágio/júnior 🔥
